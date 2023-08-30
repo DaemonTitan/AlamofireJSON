@@ -1,0 +1,6 @@
+framework module Pods_AlamofireJSON_AlamofireJSONUITests {
+  umbrella header "Pods-AlamofireJSON-AlamofireJSONUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
